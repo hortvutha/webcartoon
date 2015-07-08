@@ -15,6 +15,8 @@ return array(
 	 * @type string
 	 */
 	'title' => 'Admin Testing',
+	
+	'title' => 'Admin Testing',
 
 	/**
 	 * The path to your model config directory
