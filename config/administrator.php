@@ -16,6 +16,7 @@ return array(
 	 */
 	'title' => 'Admin Testing',
 	
+	'title' => 'Admin Testing',
 	'hortvutha' => 'Admin hortvutha',
 
 	/**
