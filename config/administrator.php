@@ -17,6 +17,7 @@ return array(
 	'title' => 'Admin Testing',
 	
 	'title' => 'Admin Testing',
+	'hortvutha' => 'Admin hortvutha',
 
 	/**
 	 * The path to your model config directory
